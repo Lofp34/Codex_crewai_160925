@@ -1,5 +1,6 @@
-# Runtime dependencies for the TEST_CODEX crew project.
-crewai[tools]>=0.186.1,<1.0.0
-
-# Install the local package in editable mode so CLI entry points are available.
--e ./test_codex
+# Python dependencies for the Codex crewAI project
+crewai
+crewai-tools
+langchain
+openai
+python-dotenv
