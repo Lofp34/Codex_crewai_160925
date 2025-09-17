@@ -1,0 +1,3 @@
+Crew run failed before the reporting_analyst agent could generate an output.
+Reason: litellm.AuthenticationError - missing OPENAI_API_KEY environment variable.
+Please set the OpenAI API key and re-run `crewai run` to obtain the reporting_analyst result.
