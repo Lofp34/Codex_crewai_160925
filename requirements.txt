@@ -1,0 +1,6 @@
+# Python dependencies for the Codex crewAI project
+crewai
+crewai-tools
+langchain
+openai
+python-dotenv
